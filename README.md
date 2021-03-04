@@ -15,4 +15,4 @@ The yellow product seems to generate pretty consistent revenue. Unlike the more 
 
 Many of these patterns and the possible logic that I have discussed here can have an enormous impact on the Analyst, helping determine what avenues to pursue to continue their evaluation. These theories are not fact and would require further analysis to ensure validity.
 
-![Data Visual](/SampleVisual.jpg)
+![Data Visual](SampleVisual.jpg)
