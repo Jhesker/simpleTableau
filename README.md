@@ -1,5 +1,7 @@
-Sales By Category Over Time
-	The First practice I completed was with the sales "Sample-Superstore" data set. This dataset was great. It allowed me to work with a great deal of data that frequently occur in many practical applications. 
+Sales By Product Over Time
+
+
+The First practice I completed was with the sales "Sample-Superstore" data set. This dataset was great. It allowed me to work with a great deal of data that frequently occur in many practical applications. 
 
 To familiarize myself with the dataset and get an overall idea of the data ranges and other factors, I decided to get a general overview by analyzing one of the most common key metrics among many businesses, quarterly sales. 
 
